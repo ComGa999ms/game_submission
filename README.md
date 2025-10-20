@@ -1,7 +1,7 @@
-# FakeFeet: Detecting Misinformation in Vietnam and Australia
+# FakeFeed: Detecting Misinformation in Vietnam and Australia
 
 ## Overview
-FakeFeet is an educational web-based card game designed to combat the spread of fake news, a critical social challenge affecting community trust and resilience in Vietnam and Australia. Players are presented with 10 randomized news headlines (a mix of real and fabricated) and must classify each as "Real" or "Fake." Correct guesses earn points, with a win threshold of 6/10. The game fosters media literacy by providing immediate feedback on each decision.
+FakeFeed is an educational web-based card game designed to combat the spread of fake news, a critical social challenge affecting community trust and resilience in Vietnam and Australia. Players are presented with 10 randomized news headlines (a mix of real and fabricated) and must classify each as "Real" or "Fake." Correct guesses earn points, with a win threshold of 6/10. The game fosters media literacy by providing immediate feedback on each decision.
 
 This project was developed using large language models (e.g., Grok by xAI) for ideation, code generation, and asset conceptualization, emphasizing front-end technologies for accessibility.
 

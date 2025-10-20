@@ -61,7 +61,7 @@ const newsData = [
     { headline: "Australia's vegans petition for 'meat-free Mondays' nationwide law", isReal: false, explanation: "Wishful advocacy; dietary choices voluntary, no federal mandates." }
 ];
 
-// Global variables: Current news array, score, index, buttons
+// Global variables: Current news array, score, index, buttona
 let currentNews = [];
 let score = 0; // Number of correct answers
 let currentIndex = 0; // Current question index (starts at 0)
