@@ -18,5 +18,6 @@ This project was developed using large language models (e.g., Grok by xAI) for i
 - **AI Usage**: LLM-assisted prompt engineering for news fabrication simulation and code logic.
 - **Impact**: Encourages players to question sources, enhancing digital citizenship in flood-prone, politically dynamic regions like Vietnam and Australia.
 
-Demo Video: See `youtube_link.txt`.
+Demo Video: See `youtube_link.txt`
+
 Link Game: https://comga999ms.github.io/game_submission_pages/
